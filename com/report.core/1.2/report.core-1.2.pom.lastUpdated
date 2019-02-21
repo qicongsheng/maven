@@ -1,4 +1,7 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Fri Nov 16 18:42:40 CST 2018
+#Thu Feb 21 17:40:24 CST 2019
 http\://repo1.maven.org/maven2/.error=
-http\://repo1.maven.org/maven2/.lastUpdated=1542364960968
+https\://repo.maven.apache.org/maven2/.lastUpdated=1550742024527
+http\://repo1.maven.org/maven2/.lastUpdated=1550472784841
+https\://raw.githubusercontent.com/qicongsheng/maven/master/.lastUpdated=1550472860591
+https\://repo.maven.apache.org/maven2/.error=
