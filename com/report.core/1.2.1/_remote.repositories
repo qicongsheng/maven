@@ -1,4 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Feb 22 14:27:56 CST 2019
-report.core-1.2.1.pom>=
-report.core-1.2.1.jar>=
+#Fri Feb 22 14:39:36 CST 2019
+report.core-1.2.1.jar>github-repository=
+report.core-1.2.1.pom>github-repository=

@@ -1,3 +1,5 @@
-#NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Fri Feb 22 14:26:59 CST 2019
-https\://repo.maven.apache.org/maven2/.lastUpdated=1550816819023
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Feb 22 14:39:36 CST 2019
+https\://raw.githubusercontent.com/qicongsheng/maven/master/.lastUpdated=1550817576871
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1550817564214
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com\:report.core\:jar\:1.2.1 from/to central (https\://repo.maven.apache.org/maven2)\: Received fatal alert\: protocol_version
